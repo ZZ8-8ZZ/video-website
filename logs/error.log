@@ -1,0 +1,8 @@
+[2024-12-26 18:40:43] require_once(includes/footer.php): Failed to open stream: No such file or directory - Context: {"file":"E:\\wamp\\www\\web\\wzsp\\index.php","line":161,"type":2}
+[2024-12-26 18:40:55] require_once(includes/footer.php): Failed to open stream: No such file or directory - Context: {"file":"E:\\wamp\\www\\web\\wzsp\\index.php","line":161,"type":2}
+[2024-12-27 12:58:57] Undefined array key "duration" - Context: {"file":"E:\\wamp\\www\\web\\wdspwz\\index.php","line":176,"type":2}
+[2024-12-27 13:02:07] Undefined array key "duration" - Context: {"file":"E:\\wamp\\www\\web\\wdspwz\\index.php","line":172,"type":2}
+[2024-12-27 13:02:08] Undefined array key "duration" - Context: {"file":"E:\\wamp\\www\\web\\wdspwz\\index.php","line":172,"type":2}
+[2024-12-27 13:02:08] Undefined array key "duration" - Context: {"file":"E:\\wamp\\www\\web\\wdspwz\\index.php","line":172,"type":2}
+[2024-12-27 13:02:09] Undefined array key "duration" - Context: {"file":"E:\\wamp\\www\\web\\wdspwz\\index.php","line":172,"type":2}
+[2024-12-27 13:02:09] Undefined array key "duration" - Context: {"file":"E:\\wamp\\www\\web\\wdspwz\\index.php","line":172,"type":2}
